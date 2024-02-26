@@ -5,7 +5,7 @@ Seguindo os vídeos do canal https://www.youtube.com/@CrisTech20.
 
 # Tecnologias e ferramentas utilizadas
 * Visual Studio
-* *ASP.NET Core MVC
+* ASP.NET Core MVC
 * SQLServer
 * Bootstrap
 * ClosedXML
